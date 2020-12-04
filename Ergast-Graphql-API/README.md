@@ -4,13 +4,15 @@ A NodeJS, Graphql middleware for Ergast Developer API.
 
 <http://ergast.com/mrd/>
 
-### How to use
+## How to use
 
-```
+```bash
+
 1. git clone git@github.com:vaughan189/graphql-learning.git
 2. cd Ergast-Graphql-API
 3. npm install
 4. npm start
+
 ```
 
 ### How to test
@@ -42,7 +44,8 @@ Open the graphql palyground <http://localhost:8000/graphql>
 
 `JSON Response`:
 
-```
+```bash
+
 {
     "MRData": {
         "xmlns": "http://ergast.com/mrd/1.4",
@@ -81,4 +84,5 @@ Open the graphql palyground <http://localhost:8000/graphql>
         }
     }
 }
+
 ```
