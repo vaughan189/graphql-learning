@@ -1,0 +1,28 @@
+{
+  "name": "ergast-graphql-api",
+  "version": "1.0.0",
+  "description": "A Graphql middleware for Ergast Developer API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaughan189/Ergast-Graphql-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaughan189/Ergast-Graphql-API/issues"
+  },
+  "homepage": "https://github.com/vaughan189/Ergast-Graphql-API#readme",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.8.0",
+    "apollo-server-express": "^2.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
