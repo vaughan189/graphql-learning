@@ -7,9 +7,10 @@ A NodeJS, Graphql middleware for Ergast Developer API.
 ### How to use
 
 ```
-1. git clone https://github.com/vaughan189/Ergast-Graphql-API
-2. npm install
-3. npm start
+1. git clone git@github.com:vaughan189/graphql-learning.git
+2. cd Ergast-Graphql-API
+3. npm install
+4. npm start
 ```
 
 ### How to test
